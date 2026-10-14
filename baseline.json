@@ -1,0 +1,74 @@
+{
+  "ygo": {
+    "cards": 46532,
+    "pricedCards": 45600
+  },
+  "mtg": {
+    "cards": 105466,
+    "pricedCards": 101270
+  },
+  "pokemon": {
+    "cards": 28054,
+    "pricedCards": 27561
+  },
+  "onepiece": {
+    "cards": 7291,
+    "pricedCards": 6882
+  },
+  "digimon": {
+    "cards": 9388,
+    "pricedCards": 9124
+  },
+  "dbmasters": {
+    "cards": 11621,
+    "pricedCards": 9893
+  },
+  "dbfusion": {
+    "cards": 4280,
+    "pricedCards": 3884
+  },
+  "gundam": {
+    "cards": 2006,
+    "pricedCards": 1986
+  },
+  "lorcana": {
+    "cards": 3595,
+    "pricedCards": 3310
+  },
+  "union": {
+    "cards": 7041,
+    "pricedCards": 6760
+  },
+  "weiss": {
+    "cards": 31209,
+    "pricedCards": 20993
+  },
+  "vanguard": {
+    "cards": 26088,
+    "pricedCards": 21242
+  },
+  "fab": {
+    "cards": 10487,
+    "pricedCards": 8847
+  },
+  "starwars": {
+    "cards": 9004,
+    "pricedCards": 8572
+  },
+  "ff": {
+    "cards": 5515,
+    "pricedCards": 5362
+  },
+  "shadowverse": {
+    "cards": 7415,
+    "pricedCards": 5850
+  },
+  "hololive": {
+    "cards": 1968,
+    "pricedCards": 1916
+  },
+  "riftbound": {
+    "cards": 1714,
+    "pricedCards": 1445
+  }
+}
