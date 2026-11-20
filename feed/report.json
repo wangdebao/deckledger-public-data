@@ -2,56 +2,56 @@
   "schema": 1,
   "mode": "snapshot",
   "complete": true,
-  "generatedAt": "2026-11-19T03:39:01.666Z",
+  "generatedAt": "2026-11-20T03:28:03.708Z",
   "games": {
     "ygo": {
       "category": 2,
       "groups": 660,
       "checkedGroups": 660,
       "cards": 46910,
-      "pricedCards": 45950
+      "pricedCards": 45949
     },
     "mtg": {
       "category": 1,
       "groups": 459,
       "checkedGroups": 459,
       "cards": 107774,
-      "pricedCards": 103752
+      "pricedCards": 103791
     },
     "pokemon": {
       "category": 3,
-      "groups": 221,
-      "checkedGroups": 221,
-      "cards": 28282,
-      "pricedCards": 27811
+      "groups": 222,
+      "checkedGroups": 222,
+      "cards": 28283,
+      "pricedCards": 27819
     },
     "onepiece": {
       "category": 68,
       "groups": 88,
       "checkedGroups": 88,
       "cards": 7527,
-      "pricedCards": 7053
+      "pricedCards": 7108
     },
     "digimon": {
       "category": 63,
       "groups": 108,
       "checkedGroups": 108,
-      "cards": 9564,
-      "pricedCards": 9166
+      "cards": 9576,
+      "pricedCards": 9165
     },
     "dbmasters": {
       "category": 27,
-      "groups": 107,
-      "checkedGroups": 107,
+      "groups": 108,
+      "checkedGroups": 108,
       "cards": 11805,
-      "pricedCards": 9687
+      "pricedCards": 9674
     },
     "dbfusion": {
       "category": 80,
       "groups": 54,
       "checkedGroups": 54,
       "cards": 4374,
-      "pricedCards": 4062
+      "pricedCards": 4065
     },
     "gundam": {
       "category": 86,
@@ -65,63 +65,63 @@
       "groups": 21,
       "checkedGroups": 21,
       "cards": 3627,
-      "pricedCards": 3599
+      "pricedCards": 3600
     },
     "union": {
       "category": 81,
       "groups": 85,
       "checkedGroups": 85,
       "cards": 7228,
-      "pricedCards": 7048
+      "pricedCards": 7057
     },
     "weiss": {
       "category": 20,
       "groups": 179,
       "checkedGroups": 179,
       "cards": 31639,
-      "pricedCards": 21108
+      "pricedCards": 21131
     },
     "vanguard": {
       "category": 16,
       "groups": 273,
       "checkedGroups": 273,
-      "cards": 26709,
-      "pricedCards": 21435
+      "cards": 27010,
+      "pricedCards": 21547
     },
     "fab": {
       "category": 62,
       "groups": 111,
       "checkedGroups": 111,
-      "cards": 10812,
-      "pricedCards": 9085
+      "cards": 10837,
+      "pricedCards": 9082
     },
     "starwars": {
       "category": 79,
       "groups": 34,
       "checkedGroups": 34,
       "cards": 9783,
-      "pricedCards": 8722
+      "pricedCards": 8731
     },
     "ff": {
       "category": 24,
       "groups": 39,
       "checkedGroups": 39,
       "cards": 5703,
-      "pricedCards": 5487
+      "pricedCards": 5492
     },
     "shadowverse": {
       "category": 73,
       "groups": 54,
       "checkedGroups": 54,
       "cards": 7960,
-      "pricedCards": 5861
+      "pricedCards": 5853
     },
     "hololive": {
       "category": 87,
       "groups": 26,
       "checkedGroups": 26,
       "cards": 2304,
-      "pricedCards": 2018
+      "pricedCards": 2031
     },
     "riftbound": {
       "category": 89,
@@ -194,8 +194,8 @@
     },
     {
       "name": "ygo-prices.json",
-      "sha256": "d3422a0d076545b11662264577cfa8d3025c739f00e2d2ca10a5952e82760dc4",
-      "bytes": 2430696
+      "sha256": "609cc859bac790f64b5654614f1d9ea3edc9fdedc890680e2396d4cbde4266d6",
+      "bytes": 2430622
     },
     {
       "name": "mtg-0.json",
@@ -284,8 +284,8 @@
     },
     {
       "name": "mtg-17.json",
-      "sha256": "a422d2a6c495f8a5fe5fc913bea5aa72d0dbf5bd796dbfc99458c725fb986017",
-      "bytes": 505401
+      "sha256": "3e5e7d108c460663006043fc02a232b307ccb76c1f0882b2797761054187cb57",
+      "bytes": 505408
     },
     {
       "name": "mtg-18.json",
@@ -324,18 +324,18 @@
     },
     {
       "name": "mtg-25.json",
-      "sha256": "c43ee85044fb35db0e4334890c73fc2ca491539194b43cab3b4820fffd40fe76",
+      "sha256": "738ab3cf48e96a465d65b5bdc17869f653928ffa644175196ffbc7b723d0c389",
       "bytes": 481805
     },
     {
       "name": "mtg-26.json",
-      "sha256": "413dce365cccd08e0bb3fbfdf3b24304605d6c9f30d38d2aa703f497355480e3",
-      "bytes": 428094
+      "sha256": "525518e5888b7379e66c3de7aee36ea68cd096de76b231e1db97968f1e314ab5",
+      "bytes": 428099
     },
     {
       "name": "mtg-prices.json",
-      "sha256": "267edb3b64e0ebbfbd51080c21e34a7e9dc82664687c06b80614b86097075d6b",
-      "bytes": 5423642
+      "sha256": "e6ac63906d1f6eb4e3ed8b8b47653136925537241fad445f29d34bdbad886b12",
+      "bytes": 5425326
     },
     {
       "name": "pokemon-0.json",
@@ -374,13 +374,13 @@
     },
     {
       "name": "pokemon-7.json",
-      "sha256": "b4d4ccb894fe3c2bbdbe6c5ef5ae43b9d1b3f31d091f283e03ed1c532053629d",
-      "bytes": 33602
+      "sha256": "423df2b782ffda7ab526812ff97c87fcefb88208b0a940c04fc2d16379a6e28a",
+      "bytes": 33720
     },
     {
       "name": "pokemon-prices.json",
-      "sha256": "6c72766042b2f00b21ab171004b344527af170a8e770d945346ec4d50e50b1e0",
-      "bytes": 1682119
+      "sha256": "6f3329e3a684f8c91c1b483ca802460d9a5b6f25bcade033ff7d10f1c30db74a",
+      "bytes": 1682300
     },
     {
       "name": "onepiece-0.json",
@@ -394,8 +394,8 @@
     },
     {
       "name": "onepiece-prices.json",
-      "sha256": "84ba8aa71e21719a609d725e65f255e34cd6e37dfb76de477232a2ed1f5df438",
-      "bytes": 279166
+      "sha256": "66cdc5d66a7bc5c19e57c8ce19658d14105bfec58a965a49e44be35028680098",
+      "bytes": 281295
     },
     {
       "name": "digimon-0.json",
@@ -409,13 +409,13 @@
     },
     {
       "name": "digimon-2.json",
-      "sha256": "4a3ca13048f36bbbe581727f397ca2f4a04fd01e6e39646faaf858dfd1879688",
-      "bytes": 201002
+      "sha256": "d98d574c431c7f5745aaf95ac641d1446ff67bbde33efe384814de0e36307462",
+      "bytes": 202290
     },
     {
       "name": "digimon-prices.json",
-      "sha256": "c4c470bedb35012514d48c3c7e93b30748fa436a9ff43a805114eb8216f7902e",
-      "bytes": 357162
+      "sha256": "d7a36533b9ce3f7afdf0a4d9366792e43f9ef49e9cdac2abc589f9111031a2cd",
+      "bytes": 357154
     },
     {
       "name": "dbmasters-0.json",
@@ -434,8 +434,8 @@
     },
     {
       "name": "dbmasters-prices.json",
-      "sha256": "349d3834eee4c424b00a50b6658cfd8108a433f1e84a03a1063b32ab259b0b2c",
-      "bytes": 454631
+      "sha256": "05c91c29896a33a0f84627e9e0afa71648184cae4544efaabf3aad64bc68bf7c",
+      "bytes": 454115
     },
     {
       "name": "dbfusion-0.json",
@@ -449,8 +449,8 @@
     },
     {
       "name": "dbfusion-prices.json",
-      "sha256": "edf69537b8ee1e576aa2bcaaeb469df086f9ac86eb3055cec7ac31999ab83e6f",
-      "bytes": 169197
+      "sha256": "1787adcb09c1ad35015fe167c18e8af0071ec80ac2ec94d8a27ac805536744a5",
+      "bytes": 169325
     },
     {
       "name": "gundam-0.json",
@@ -459,8 +459,8 @@
     },
     {
       "name": "gundam-prices.json",
-      "sha256": "e7b9bc568c1d8e8a40fe7216b23d5525c204ca8fd6319aa6cc2e1ef823a6e504",
-      "bytes": 90136
+      "sha256": "810e56fef1be54b93e8eb60a821cabcb1c7f2613faf79f55512e29a487d416a2",
+      "bytes": 90113
     },
     {
       "name": "lorcana-0.json",
@@ -469,8 +469,8 @@
     },
     {
       "name": "lorcana-prices.json",
-      "sha256": "a1568bbf8ac41fecc50477a48b05ea4ba603cb25d219df6851a2b56279e95526",
-      "bytes": 236673
+      "sha256": "9dac1bff9295a40c48f68e55f8e4792bc795ac606da4982ba9cfb97b163c4677",
+      "bytes": 236718
     },
     {
       "name": "union-0.json",
@@ -484,8 +484,8 @@
     },
     {
       "name": "union-prices.json",
-      "sha256": "81eaf1f5b215045f97bd13e11d4c3c28dae9bedddddd1f16ab14dc8824a9b7d4",
-      "bytes": 282716
+      "sha256": "aa7089788d75ff725878efd72eaa4f45ddc9389b8c70276e998626cacb93d344",
+      "bytes": 283061
     },
     {
       "name": "weiss-0.json",
@@ -529,8 +529,8 @@
     },
     {
       "name": "weiss-prices.json",
-      "sha256": "434c0a6fefe86f65eebe42eccbf310625c097ee76eb1d16f8822a1920450f0d1",
-      "bytes": 839188
+      "sha256": "7bfd3a266e3ad48afd005f9b46b59c68d43f0a62bdb0b962da4d566984067afe",
+      "bytes": 840082
     },
     {
       "name": "vanguard-0.json",
@@ -564,13 +564,13 @@
     },
     {
       "name": "vanguard-6.json",
-      "sha256": "f9d7652aef86224883e85dde69ecc3ff92db898466134dcfba838ace585c53b1",
-      "bytes": 382419
+      "sha256": "be643f87c14da0395ec73c7f860693c772ea8c87d46d022f86659f6af3e2e0c8",
+      "bytes": 427841
     },
     {
       "name": "vanguard-prices.json",
-      "sha256": "3ee1c6c632847721929b3fa97b428256ed19e97eef19c069a758d06b122c6f35",
-      "bytes": 853829
+      "sha256": "b9c38df4ce63fdafdeee313bf16ab0e25d4b611dc56887761d0ab630c93d76ba",
+      "bytes": 858259
     },
     {
       "name": "fab-0.json",
@@ -584,13 +584,13 @@
     },
     {
       "name": "fab-2.json",
-      "sha256": "be638a47d260e6c3c4fd5116a07f0c19fb7b606dd33da28c70fdd83fe8a4f474",
-      "bytes": 333709
+      "sha256": "2ac3da4ebdf93d8c7914bee4f42bc0691840d97e7058a5f85a6749f849925939",
+      "bytes": 336987
     },
     {
       "name": "fab-prices.json",
-      "sha256": "25c699a36600c5e46104439f2e37e4308c8512800027fcb113c0899ec2c85b50",
-      "bytes": 617374
+      "sha256": "af411c68f15ee626e1671dfa8e06d912d6e9c6164a786e22ebde12684d91e308",
+      "bytes": 616818
     },
     {
       "name": "starwars-0.json",
@@ -609,8 +609,8 @@
     },
     {
       "name": "starwars-prices.json",
-      "sha256": "de4e193b0f2735fa69ecf2cfacc53984f89ce17023c9c5352d9d645e123a7251",
-      "bytes": 378664
+      "sha256": "8cd8a513ab02e877882a9518380afa62600ae18129eb96f438581fef8868fd1f",
+      "bytes": 379050
     },
     {
       "name": "ff-0.json",
@@ -624,8 +624,8 @@
     },
     {
       "name": "ff-prices.json",
-      "sha256": "22350da6e770af39b41f3bf2951ecf37b0c4bfa85ccb2a12e0505284886ddf9c",
-      "bytes": 325493
+      "sha256": "785308da9ed53fadf90f4f3ec3f1093999b65b2893500d919d7e3303f0e95c77",
+      "bytes": 326149
     },
     {
       "name": "shadowverse-0.json",
@@ -639,8 +639,8 @@
     },
     {
       "name": "shadowverse-prices.json",
-      "sha256": "110efe26b34399e7e5e052d688a1a7f85103aa6609468a3340b94c9d2cb55d8b",
-      "bytes": 233900
+      "sha256": "ca1bb454808241a14e8efb518d533ab1dea21f4338ce2c0b291185441ea37e61",
+      "bytes": 233584
     },
     {
       "name": "hololive-0.json",
@@ -649,8 +649,8 @@
     },
     {
       "name": "hololive-prices.json",
-      "sha256": "3511426fd6edbb2b59243d7554a405fb456b4924ec42b5e0c0eb6184e3e342c0",
-      "bytes": 78298
+      "sha256": "75a636c5cabdeffee4f9a5e1dc2881144c09154995a5ab128981d1d7697156ec",
+      "bytes": 78805
     },
     {
       "name": "riftbound-0.json",
@@ -659,9 +659,9 @@
     },
     {
       "name": "riftbound-prices.json",
-      "sha256": "46f26f8828473af61a7474a58905ae4ff293e7e0885cc56145b978d015123bcb",
-      "bytes": 83999
+      "sha256": "f33448dd60ccb120726d57eaace8e9eff2ce9f1565524e59551a3b91dc7eb9e3",
+      "bytes": 83992
     }
   ],
-  "finishedAt": "2026-11-19T03:49:30.834Z"
+  "finishedAt": "2026-11-20T03:38:33.803Z"
 }
